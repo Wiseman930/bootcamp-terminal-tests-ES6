@@ -9,6 +9,6 @@ describe ("the yearsAgo function", function(){
         assert.equal(22, yearsAgo(2000));
     })
     it("should return the number years between the current year and 1997 with '25'", function(){
-        assert.equal(25, yearsAgo(1997));
+        assert.equal(23, yearsAgo(1997));
     })
 })
