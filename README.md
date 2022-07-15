@@ -1,1 +1,1 @@
-[![Node.js CI](https://github.com/Wiseman930/bootcamp-terminal-tests-ES6/actions/workflows/node.js.yml/badge.svg)](https://github.com/Wiseman930/bootcamp-terminal-tests-ES6/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/Wiseman930/bootcamp-terminal-tests-ES6/actions/workflows/node.js.yml/badge.svg?branch=gh-pages)](https://github.com/Wiseman930/bootcamp-terminal-tests-ES6/actions/workflows/node.js.yml)
